@@ -10,3 +10,6 @@ find the smallest element of array
       System.out.println(min);
     }
 }
+
+output:
+1
